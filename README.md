@@ -708,7 +708,57 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - **Issues**: GitHub Issues
 - **Discussions**: GitHub Discussions
 
+**Built with ❤️ using AI-DigitalTwin-OS**
+
+=======
+AI powered behavioral analytics platform
+>>>>>>> 74979870671284838140c8c3f6a5e4e94af1fda5
+=======
+AI powered behavioral analytics platform
+>>>>>>> 74979870671284838140c8c3f6a5e4e94af1fda5
+=======
+AI powered behavioral analytics platform
+>>>>>>> 74979870671284838140c8c3f6a5e4e94af1fda5
+=======
+AI powered behavioral analytics platform
+>>>>>>> 74979870671284838140c8c3f6a5e4e94af1fda5
+=======
 ---
 
 **Built with ❤️ using AI-DigitalTwin-OS**
+=======
+**Built with ❤️ using AI-DigitalTwin-OS**
 
+=======
+AI powered behavioral analytics platform
+>>>>>>> 74979870671284838140c8c3f6a5e4e94af1fda5
+=======
+---
+
+**Built with ❤️ using AI-DigitalTwin-OS**
+=======
+**Built with ❤️ using AI-DigitalTwin-OS**
+
+=======
+AI powered behavioral analytics platform
+>>>>>>> 74979870671284838140c8c3f6a5e4e94af1fda5
+=======
+---
+
+**Built with ❤️ using AI-DigitalTwin-OS**
+=======
+**Built with ❤️ using AI-DigitalTwin-OS**
+
+=======
+AI powered behavioral analytics platform
+>>>>>>> 74979870671284838140c8c3f6a5e4e94af1fda5
+=======
+---
+
+**Built with ❤️ using AI-DigitalTwin-OS**
+=======
+**Built with ❤️ using AI-DigitalTwin-OS**
+
+=======
+AI powered behavioral analytics platform
+>>>>>>> 74979870671284838140c8c3f6a5e4e94af1fda5
