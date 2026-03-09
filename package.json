@@ -1,0 +1,41 @@
+{
+  "name": "ai-digitaltwin-os",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI Digital Twin Operating System",
+  "scripts": {
+    "test": "npm run test:backend && npm run test:ai",
+    "test:backend": "cd backend && npm test",
+    "test:ai": "cd ai_engine && python -m pytest tests/ -v",
+    "test:frontend": "cd frontend && npm test",
+    "setup": "npm run setup:backend && npm run setup:ai",
+    "setup:backend": "cd backend && npm install",
+    "setup:ai": "cd ai_engine && pip install -r requirements.txt",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\" \"npm run dev:ai\"",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:ai": "cd ai_engine && python main.py",
+    "build": "npm run build:backend && npm run build:frontend",
+    "build:backend": "cd backend && npm run build",
+    "build:frontend": "cd frontend && npm run build",
+    "lint": "npm run lint:backend && npm run lint:frontend",
+    "lint:backend": "cd backend && npm run lint",
+    "lint:frontend": "cd frontend && npm run lint"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "python": ">=3.10.0"
+  },
+  "keywords": [
+    "ai",
+    "digital-twin",
+    "operating-system",
+    "machine-learning"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
