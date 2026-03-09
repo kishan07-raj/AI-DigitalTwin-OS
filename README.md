@@ -481,19 +481,6 @@ kubectl apply -f system_layer/k8s/
 
 ---
 
-## Future Roadmap
-
-### Development Phases
-
-| Phase | Feature | Status |
-|-------|---------|--------|
-| Phase 1 | Foundation Setup | ✅ Complete |
-| Phase 2 | Adaptive Interface | ✅ Complete |
-| Phase 3 | Personal Digital Twin | ✅ Complete |
-| Phase 4 | Self-Healing System | ✅ Complete |
-| Phase 5 | Self-Evolution Engine | ✅ Complete |
-| Phase 6 | Cross-Domain Intelligence | ✅ Complete |
-| Phase 7 | Deployment & Showcase | ✅ Complete |
 
 ### Planned Enhancements
 
@@ -535,14 +522,14 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## Author
 
 **Kisha**
-- GitHub: [yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [
+kishanraj-123](https://github.com/kishan07-raj/AI-DigitalTwin-OS)
 
 ---
 
 <div align="center">
 
-**Built with ❤️ using AI-DigitalTwin-OS**
+**Built with kishan❤️ using AI-DigitalTwin-OS**
 
 </div>
 
